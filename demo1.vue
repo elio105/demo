@@ -7,7 +7,7 @@
             master 
         </h2>
         <h2>
-            devlop
+            devlop  分支合并主分支
         </h2>
     </div>
 </template>
