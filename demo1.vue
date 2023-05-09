@@ -3,6 +3,9 @@
         <h1>
             hello word
         </h1>
+        <h2>
+            master 
+        </h2>
     </div>
 </template>
 
